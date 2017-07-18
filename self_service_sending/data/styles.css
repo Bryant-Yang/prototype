@@ -1,0 +1,128 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.btn_unfocused {
+  font-size:18px;
+  color:#666666;
+}
+.btn_focused {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+.btn_disabled {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#CCCCCC;
+}
+.multi_line {
+  font-size:16px;
+  color:#FF6600;
+  line-height:14px;
+}
+.panel_operation {
+}
+.shape {
+}
+.box_1 {
+}
+.box_2 {
+}
+.ellipse {
+}
+.image {
+  color:#000000;
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
+.html_button {
+  color:#000000;
+}
+.table {
+}
+.table_cell {
+}
+.menu_item {
+}
+.horizontal_line {
+}
+.connector {
+}
+._透明浮层 {
+}
+.multipleline {
+}
+.fontawesome {
+  font-family:'FontAwesome', 'FontAwesome';
+  font-size:36px;
+  color:#797979;
+}
